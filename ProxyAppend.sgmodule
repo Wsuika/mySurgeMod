@@ -1,0 +1,7 @@
+#!name=强制代理补充
+#!desc=补充一下托管规则未覆盖到的应代理情况
+
+[Rule]
+DOMAIN-SUFFIX,zh.ifixit.com,Proxy
+DOMAIN-SUFFIX,paypal.com,Proxy
+

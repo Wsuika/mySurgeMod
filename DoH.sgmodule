@@ -1,0 +1,5 @@
+#!name=DoH
+#!desc=  1.1.1.1
+
+[General]
+doh-server = https://1.1.1.1/dns-query
