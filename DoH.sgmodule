@@ -5,8 +5,8 @@
 doh-server = https://1.1.1.1/dns-query
 
 [host]
-bili*.com = server:system
-hdslb.com = server:system
-hpplay.cn = server:system
-bili*.net = server:system
-alicdn.com = server:system
+*.bili*.com = server:system
+*.hdslb.com = server:system
+*.hpplay.cn = server:system
+*.bili*.net = server:system
+*.alicdn.com = server:system
