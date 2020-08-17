@@ -4,4 +4,4 @@
 [Rule]
 DOMAIN-SUFFIX,zh.ifixit.com,Proxy
 DOMAIN-SUFFIX,paypal.com,Proxy
-
+DOMAIN-SUFFIX,18comic.vip,DIRECT
